@@ -18,9 +18,9 @@
    - Console-based user interaction
 
 ### Technologies Used
-     -  Java
-     -  Object-Oriented Programming concepts
-     -  Console-based input/output
+       Java
+       Object-Oriented Programming concepts
+       Console-based input/output
 
 ### OUTPUT:
 
